@@ -20,7 +20,7 @@ export default function App() {
       <div className="container-fluid">
         <nav className="navbar navbar-expand-lg navbar-light">
           <a className="navbar-brand" href="/">
-            <img className="imageHalf" src="http://localhost:3000/images/fsf-header-logo@2x.png"/>
+            <img className="imageHalf" src="./images/fsf-header-logo@2x.png"/>
           </a>
           <button
             className="navbar-toggler"
